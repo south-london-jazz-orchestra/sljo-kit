@@ -54,10 +54,19 @@ You have <span class="musician-count" data-parts="alto1 alto2 tenor1 tenor2 bari
 </details>
 
 <details open>
-<summary>Speaker &amp; mic stand coffin</summary>
+<summary>Speaker stand bag</summary>
 <figure>
-  <img src="/assets/kit/mic-coffin.jpg" />
-  <figcaption>This looks similar to the drum coffin! Check what's inside if unsure.</figcaption>
+  <img src="/assets/kit/speaker-stands.jpg" />
+  <figcaption>"Gravity" logo. Inside there are two speaker stands and one pole
+  (for use with the subwoofer).</figcaption>
+</figure>
+</details>
+
+<details open class="skip-vocal-no">
+<summary>Mic stand</summary>
+<figure>
+  <img src="/assets/kit/mic-stand.jpg" />
+  <figcaption>Loose on the top shelf.</figcaption>
 </figure>
 </details>
 
@@ -192,7 +201,7 @@ You have <span class="musician-count" data-parts="alto1 alto2 tenor1 tenor2 bari
 <summary>Stage light stands</summary>
 <figure>
   <img src="/assets/kit/light-stands.jpg" />
-  <figcaption>This bag says "Rockbag" on it.</figcaption>
+  <figcaption>There are two of them loose on the top shelf.</figcaption>
 </figure>
 </details>
 

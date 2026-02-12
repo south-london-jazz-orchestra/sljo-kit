@@ -177,7 +177,8 @@ You have <span class="musician-count" data-parts="alto1 alto2 tenor1 tenor2 bari
 <figure>
   <img src="/assets/kit/lights-uplighters.jpg" />
   <figcaption>This box looks similar to the sound desk! The uplighter box has a
-  hole in the top, the sound desk box does not.</figcaption>
+  hole in the top, the sound desk box does not. Lights should be charged using
+  the built-in chargers (make sure to plug them into the lights).</figcaption>
 </figure>
 </details>
 
@@ -440,8 +441,14 @@ You need <span class="stand-count" data-parts="tpt1 tpt2 tpt3 tpt4 tbn1 tbn2 tbn
 </details>
 
 <details open class="skip-venue-outdoor">
-<summary>Stand lights</summary>
-<div>TODO picture</div>
+<summary>Music stand lights</summary>
+<figure>
+  <img src="/assets/kit/music-stand-lights.jpg" />
+  <figcaption>Contains 27 music stand lights. Make sure to plug each light into
+  a USB cable during packdown. All the lights can be charged by plugging the
+  whole box in with the socket on the top of the box. Watch out for cables
+  getting caught in the box lid!</figcaption>
+</figure>
 </details>
 
 <details open class="skip-promo-no">

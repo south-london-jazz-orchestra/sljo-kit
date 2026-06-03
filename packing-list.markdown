@@ -87,7 +87,7 @@ You have <span class="musician-count" data-parts="alto1 alto2 tenor1 tenor2 bari
 <summary>Cable bag 1</summary>
 <figure>
   <img src="/assets/kit/cable-bag-cables.jpg" />
-  <figcaption>One bag contains cables, the other bag contains extension reels.</figcaption>
+  <figcaption>This bag looks similar to the percussion bag! It's made by Samsonite.</figcaption>
 </figure>
 </details>
 
@@ -95,7 +95,7 @@ You have <span class="musician-count" data-parts="alto1 alto2 tenor1 tenor2 bari
 <summary>Cable bag 2</summary>
 <figure>
   <img src="/assets/kit/cable-bag-reels.jpg" />
-  <figcaption>One bag contains cables, the other bag contains extension reels.</figcaption>
+  <figcaption>This bag contains extension reels.</figcaption>
 </figure>
 </details>
 
@@ -327,6 +327,7 @@ You have <span class="musician-count" data-parts="alto1 alto2 tenor1 tenor2 bari
 <summary>Percussion bag</summary>
 <figure>
   <img src="/assets/kit/percussion.jpg" />
+  <figcaption>This bag looks similar to the cable bag. It's made by Stanley.</figcaption>
 </figure>
 </details>
 

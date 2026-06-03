@@ -36,6 +36,14 @@ You have <span class="musician-count" data-parts="alto1 alto2 tenor1 tenor2 bari
 </details>
 
 <details open>
+<summary>Wheel trolley</summary>
+<figure>
+  <img src="/assets/kit/gig-box-wheels.jpg" />
+  <figcaption>You may want to use the wheel trolley to move the gig box and subwoofer.</figcaption>
+</figure>
+</details>
+
+<details open>
 <summary>Front-of-house speaker 1</summary>
 <figure>
   <img src="/assets/kit/foh-speaker.jpg" />

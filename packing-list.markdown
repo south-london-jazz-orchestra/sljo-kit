@@ -5,9 +5,12 @@ title: Packing list
 hidden: True
 ---
 
-<p>
-You have <span class="musician-count" data-parts="alto1 alto2 tenor1 tenor2 bari clarinet guitar bass"></span> musicians who will need chairs at the venue.
-</p>
+<div class="header-span">
+  <p>
+  You have <span class="musician-count" data-parts="alto1 alto2 tenor1 tenor2 bari clarinet guitar bass"></span> musicians who will need chairs at the venue.
+  </p>
+  <button onclick="navigator.clipboard.writeText(window.location.href); this.innerHTML='Link copied to clipboard!';">Share this list</button>
+</div>
 
 ## Sound equipment
 

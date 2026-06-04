@@ -66,6 +66,17 @@
   }
 }
 
+.header-span {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 1em;
+  align-items: baseline;
+
+  :first-child {
+    flex-grow: 1;
+  }
+}
+
 /* Selectors */
 
 @mixin detail-disabled() {

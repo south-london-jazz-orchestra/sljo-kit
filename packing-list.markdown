@@ -106,7 +106,8 @@ hidden: True
 <summary>Cable bag 2</summary>
 <figure>
   <img src="/assets/kit/cable-bag-reels.jpg" />
-  <figcaption>This bag contains extension reels.</figcaption>
+  <figcaption>This bag contains extension reels and two <b>large</b> cables for
+  the front-of-house speakers.</figcaption>
 </figure>
 </details>
 

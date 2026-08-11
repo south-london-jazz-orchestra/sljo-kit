@@ -25,8 +25,16 @@ hidden: True
 <details open class="first-item">
 <summary>Gig box</summary>
 <figure>
+  <img src="/assets/kit/digital-gig-box.jpg" />
+  <figcaption>This has wheels and a suitcase handle.</figcaption>
+</figure>
+</details>
+
+<details open class="first-item">
+<summary>OLD gig box</summary>
+<figure>
   <img src="/assets/kit/gig-box.jpg" />
-  <figcaption>Lift with two people. The red wheel base is useful for moving this</figcaption>
+  <figcaption>Pack this as well, until we're used to the new one.</figcaption>
 </figure>
 </details>
 
@@ -82,7 +90,23 @@ hidden: True
 </details>
 
 <details open>
+<summary>Microhpones</summary>
+<figure>
+  <img src="/assets/kit/mics.jpg" />
+  <figcaption>Contains clip mics, vocal mics, batteries and chargers.</figcaption>
+</figure>
+</details>
+
+<details open>
 <summary>Sound desk</summary>
+<figure>
+  <img src="/assets/kit/digital-sound-desk.jpg" />
+  <figcaption>This looks similar to the stage uplight box! Check the contents if unsure.</figcaption>
+</figure>
+</details>
+
+<details open>
+<summary>OLD sound desk</summary>
 <figure>
   <img src="/assets/kit/sound-desk.jpg" />
   <figcaption>This looks similar to the stage uplight box! Check the contents if unsure.</figcaption>

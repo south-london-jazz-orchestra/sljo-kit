@@ -93,7 +93,7 @@ hidden: True
 <summary>Microhpones</summary>
 <figure>
   <img src="/assets/kit/mics.jpg" />
-  <figcaption>Contains clip mics, vocal mics, batteries and chargers.</figcaption>
+  <figcaption>Contains clip mics, vocal mics, batteries and chargers. Has a label (not pictured) that says "Microphones and batteries".</figcaption>
 </figure>
 </details>
 
@@ -101,7 +101,7 @@ hidden: True
 <summary>Sound desk</summary>
 <figure>
   <img src="/assets/kit/digital-sound-desk.jpg" />
-  <figcaption>This looks similar to the stage uplight box! Check the contents if unsure.</figcaption>
+  <figcaption>This looks similar to the stage uplight box! Check the contents if unsure. It has a sticker (not pictured) that says "Digital sound desk".</figcaption>
 </figure>
 </details>
 

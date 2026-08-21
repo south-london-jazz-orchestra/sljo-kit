@@ -15,7 +15,9 @@ Mixing Station is an app that gives fine-grained control of SLJO's sound setup.
 
 <a href="https://play.google.com/store/apps/details?id=org.devcore.mixingstation">Download (Android)</a>
 /
-<a href="https://apps.apple.com/us/app/mixing-station/id1438352631">Download (iOS)</a>
+<a href="https://apps.apple.com/us/app/mixing-station/id1438352631">Download (iPhone/iPad - paid)</a>
+/
+<a href="https://apps.apple.com/us/app/x-air/id896725230">Download (iPad - free)</a>
 
 The app will ask you what kind of mixer you're using: SLJO use a
 <strong>Behringer X/M AIR</strong>. Connect to the "SLJO sound" WiFi network,

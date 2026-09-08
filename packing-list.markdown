@@ -30,14 +30,6 @@ hidden: True
 </figure>
 </details>
 
-<details open class="first-item">
-<summary>OLD gig box</summary>
-<figure>
-  <img src="/assets/kit/gig-box.jpg" />
-  <figcaption>Pack this as well, until we're used to the new one.</figcaption>
-</figure>
-</details>
-
 <details open class="skip-gig-mini">
 <summary>Subwoofer</summary>
 <figure>
@@ -104,16 +96,6 @@ hidden: True
   <figcaption>This looks similar to the stage uplight box! Check the contents if unsure. It has a sticker (not pictured) that says "Digital sound desk".</figcaption>
 </figure>
 </details>
-
-<details open>
-<summary>OLD sound desk</summary>
-<figure>
-  <img src="/assets/kit/sound-desk.jpg" />
-  <figcaption>This looks similar to the stage uplight box! Check the contents if unsure.</figcaption>
-</figure>
-</details>
-
-</section>
 
 <section>
 <h3>Cables</h3>

@@ -263,13 +263,6 @@ hidden: True
 </figure>
 </details>
 
-<details open class="skip-venue-engineered">
-<summary>Piano music stand</summary>
-<figure>
-  <img src="/assets/kit/piano-music-stand.jpg" />
-</figure>
-</details>
-
 </section>
 
 <section>

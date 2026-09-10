@@ -96,6 +96,7 @@ hidden: True
   <figcaption>This looks similar to the stage uplight box! Check the contents if unsure. It has a sticker (not pictured) that says "Digital sound desk".</figcaption>
 </figure>
 </details>
+</section>
 
 <section>
 <h3>Cables</h3>

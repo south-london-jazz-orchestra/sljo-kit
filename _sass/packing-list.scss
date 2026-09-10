@@ -118,6 +118,16 @@
   @include detail-disabled;
 }
 
+.venue-engineered .skip-venue-engineered {
+  @include detail-disabled;
+}
+
+.venue-small .warning-venue-engineered,
+.venue-outdoor .warning-venue-engineered,
+.venue-big .warning-venue-engineered {
+  display: none;
+}
+
 .vocal-no .skip-vocal-no {
   @include detail-disabled;
 }

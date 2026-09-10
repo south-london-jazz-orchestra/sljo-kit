@@ -24,6 +24,9 @@ document.addEventListener("DOMContentLoaded", function() {
         case "big":
             document.body.classList.add("venue-big");
             break;
+        case "engineered":
+            document.body.classList.add("venue-engineered");
+            break;
     }
 
     const toggles = ["vocal", "electric", "lights", "payments", "promo", "percussion"];

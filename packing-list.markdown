@@ -22,7 +22,7 @@ hidden: True
 <section>
 <h3>Sound kit</h3>
 
-<details open class="first-item">
+<details open class="first-item skip-venue-engineered">
 <summary>Gig box</summary>
 <figure>
   <img src="/assets/kit/digital-gig-box.jpg" />
@@ -30,7 +30,7 @@ hidden: True
 </figure>
 </details>
 
-<details open class="skip-gig-mini">
+<details open class="skip-gig-mini skip-venue-engineered">
 <summary>Subwoofer</summary>
 <figure>
   <img src="/assets/kit/subwoofer.jpg" />
@@ -38,7 +38,7 @@ hidden: True
 </figure>
 </details>
 
-<details open>
+<details open class="skip-venue-engineered">
 <summary>Wheel trolley</summary>
 <figure>
   <img src="/assets/kit/gig-box-wheels.jpg" />
@@ -46,7 +46,7 @@ hidden: True
 </figure>
 </details>
 
-<details open>
+<details open class="skip-venue-engineered">
 <summary>Front-of-house speaker 1</summary>
 <figure>
   <img src="/assets/kit/foh-speaker.jpg" />
@@ -55,7 +55,7 @@ hidden: True
 </figure>
 </details>
 
-<details open>
+<details open class="skip-venue-engineered">
 <summary>Front-of-house speaker 2</summary>
 <figure>
   <img src="/assets/kit/foh-speaker.jpg" />
@@ -64,7 +64,7 @@ hidden: True
 </figure>
 </details>
 
-<details open>
+<details open class="skip-venue-engineered">
 <summary>Speaker stand bag</summary>
 <figure>
   <img src="/assets/kit/speaker-stands.jpg" />
@@ -73,7 +73,7 @@ hidden: True
 </figure>
 </details>
 
-<details open class="skip-vocal-no">
+<details open class="skip-vocal-no skip-venue-engineered">
 <summary>Mic stand</summary>
 <figure>
   <img src="/assets/kit/mic-stand.jpg" />
@@ -89,7 +89,7 @@ hidden: True
 </figure>
 </details>
 
-<details open>
+<details open class="skip-venue-engineered">
 <summary>Sound desk</summary>
 <figure>
   <img src="/assets/kit/digital-sound-desk.jpg" />
@@ -98,10 +98,12 @@ hidden: True
 </details>
 </section>
 
+</section>
+
 <section>
 <h3>Cables</h3>
 
-<details open>
+<details open class="skip-venue-engineered">
 <summary>Cable bag 1</summary>
 <figure>
   <img src="/assets/kit/cable-bag-cables.jpg" />
@@ -109,7 +111,7 @@ hidden: True
 </figure>
 </details>
 
-<details open>
+<details open class="skip-venue-engineered">
 <summary>Cable bag 2</summary>
 <figure>
   <img src="/assets/kit/cable-bag-reels.jpg" />
@@ -123,7 +125,11 @@ hidden: True
 <section>
 <h3>Amps</h3>
 
-<details open>
+<figure class="warning-venue-engineered">
+  ⚠️ Check with the venue to see whether we need to bring these amps.
+</figure>
+
+<details open class="skip-venue-engineered">
 <summary>Bass guitar amp</summary>
 <figure>
   <img src="/assets/kit/hartke-bass-amp.jpg" />
@@ -131,7 +137,7 @@ hidden: True
 </figure>
 </details>
 
-<details open>
+<details open class="skip-venue-engineered">
 <summary>Guitar amp</summary>
 <figure>
   <img src="/assets/kit/guitar-amp.jpg" />
@@ -139,7 +145,7 @@ hidden: True
 </figure>
 </details>
 
-<details open>
+<details open class="skip-venue-engineered">
 <summary>Piano amp</summary>
 <figure>
   <img src="/assets/kit/piano-amp.jpg" />
@@ -152,7 +158,7 @@ hidden: True
 <section>
 <h3>Monitor speakers</h3>
 
-<details open>
+<details open class="skip-venue-engineered">
 <summary>Monitor speaker 1</summary>
 <figure>
   <img src="/assets/kit/monitor.jpg" />
@@ -160,7 +166,7 @@ hidden: True
 </figure>
 </details>
 
-<details open class="skip-venue-small">
+<details open class="skip-venue-engineered">
 <summary>Monitor speaker 2</summary>
 <figure>
   <img src="/assets/kit/monitor.jpg" />
@@ -168,7 +174,7 @@ hidden: True
 </figure>
 </details>
 
-<details open class="skip-venue-small">
+<details open class="skip-venue-engineered">
 <summary>Monitor speaker 3</summary>
 <figure>
   <img src="/assets/kit/monitor.jpg" />
@@ -176,7 +182,7 @@ hidden: True
 </figure>
 </details>
 
-<details open class="skip-vocal-no">
+<details open class="skip-venue-small skip-venue-engineered">
 <summary>Monitor speaker 4</summary>
 <figure>
   <img src="/assets/kit/monitor.jpg" />
@@ -232,28 +238,32 @@ hidden: True
 <section>
 <h3>Keys</h3>
 
-<details open>
+<figure class="warning-venue-engineered">
+  ⚠️ Check with the venue to see whether we need to bring our piano.
+</figure>
+
+<details open class="skip-venue-engineered">
 <summary>Keyboard</summary>
 <figure>
   <img src="/assets/kit/piano.jpg" />
 </figure>
 </details>
 
-<details open>
+<details open class="skip-venue-engineered">
 <summary>Piano stand</summary>
 <figure>
   <img src="/assets/kit/piano-stand.jpg" />
 </figure>
 </details>
 
-<details open>
+<details open class="skip-venue-engineered">
 <summary>Piano stool</summary>
 <figure>
   <img src="/assets/kit/piano-stool.jpg" />
 </figure>
 </details>
 
-<details open>
+<details open class="skip-venue-engineered">
 <summary>Piano music stand</summary>
 <figure>
   <img src="/assets/kit/piano-music-stand.jpg" />
@@ -265,7 +275,12 @@ hidden: True
 <section>
 <h3>Drums</h3>
 
-<details open>
+<figure class="warning-venue-engineered">
+  ⚠️ Check with the venue to see whether we need to bring our drum kit. It's
+  customary to bring our cymbals and snare when playing someone else's kit.
+</figure>
+
+<details open class="skip-venue-engineered">
 <summary>Drum coffin</summary>
 <figure>
   <img src="/assets/kit/drum-coffin.jpg" />
@@ -273,7 +288,7 @@ hidden: True
 </figure>
 </details>
 
-<details open>
+<details open class="skip-venue-engineered">
 <summary>Kick drum</summary>
 <figure>
   <img src="/assets/kit/drum-kick.jpg" />
@@ -288,7 +303,7 @@ hidden: True
 </figure>
 </details>
 
-<details open>
+<details open class="skip-venue-engineered">
 <summary>Floor tom</summary>
 <figure>
   <img src="/assets/kit/drum-floor-tom.jpg" />
@@ -296,7 +311,7 @@ hidden: True
 </figure>
 </details>
 
-<details open>
+<details open class="skip-venue-engineered">
 <summary>Tom A</summary>
 <figure>
   <img src="/assets/kit/drum-tom-a.jpg" />
@@ -321,14 +336,14 @@ hidden: True
 </figure>
 </details>
 
-<details open>
+<details open class="skip-venue-engineered">
 <summary>Drum mat</summary>
 <figure>
   <img src="/assets/kit/drum-mat.jpg" />
 </figure>
 </details>
 
-<details open>
+<details open class="skip-venue-engineered">
 <summary>Drum stool</summary>
 <figure>
   <img src="/assets/kit/drum-stool.jpg" />

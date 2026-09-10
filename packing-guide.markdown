@@ -17,6 +17,7 @@ in_menu: True
     <div><label><input type="radio" name="venue" value="small" /> Small venue (eg. pub)</label></div>
     <div><label><input type="radio" name="venue" value="big" checked /> Big venue (eg. church)</label></div>
     <div><label><input type="radio" name="venue" value="outdoor" /> Outdoors</label></div>
+    <div><label><input type="radio" name="venue" value="engineered" /> Jazz club (with sound engineer + house PA)</label></div>
   </fieldset>
   <fieldset>
     <legend>Number of musicians</legend>

@@ -82,7 +82,7 @@ hidden: True
 </details>
 
 <details open>
-<summary>Microhpones</summary>
+<summary>Microphones</summary>
 <figure>
   <img src="/assets/kit/mics.jpg" />
   <figcaption>Contains clip mics, vocal mics, batteries and chargers. Has a label (not pictured) that says "Microphones and batteries".</figcaption>

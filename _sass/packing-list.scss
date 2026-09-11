@@ -98,26 +98,14 @@
   @include detail-disabled;
 }
 
-.gig-mini .skip-gig-mini {
-  @include detail-disabled;
-}
-
+.gig-mini .skip-gig-mini,
 .gig-full .skip-gig-full {
   @include detail-disabled;
 }
 
-.venue-small .skip-venue-small {
-  @include detail-disabled;
-}
-
-.venue-outdoor .skip-venue-outdoor {
-  @include detail-disabled;
-}
-
-.venue-big .skip-venue-big {
-  @include detail-disabled;
-}
-
+.venue-small .skip-venue-small,
+.venue-outdoor .skip-venue-outdoor,
+.venue-big .skip-venue-big,
 .venue-engineered .skip-venue-engineered {
   @include detail-disabled;
 }
@@ -128,16 +116,13 @@
   display: none;
 }
 
-.vocal-no .skip-vocal-no {
+.vocal-no .skip-vocal-no,
+.vocal-yes .skip-vocal-yes {
   @include detail-disabled;
 }
 
 .vocal-no .hidden-vocal-no {
   display: none;
-}
-
-.vocal-yes .skip-vocal-yes {
-  @include detail-disabled;
 }
 
 .electric-no .skip-electric-no {
@@ -148,34 +133,22 @@
   display: none;
 }
 
-.lights-no .skip-lights-no {
-  @include detail-disabled;
-}
-
+.lights-no .skip-lights-no,
 .lights-yes .skip-lights-yes {
   @include detail-disabled;
 }
 
-.payments-no .skip-payments-no {
-  @include detail-disabled;
-}
-
+.payments-no .skip-payments-no,
 .payments-yes .skip-payments-yes {
   @include detail-disabled;
 }
 
-.promo-no .skip-promo-no {
-  @include detail-disabled;
-}
-
+.promo-no .skip-promo-no,
 .promo-yes .skip-promo-yes {
   @include detail-disabled;
 }
 
-.percussion-no .skip-percussion-no {
-  @include detail-disabled;
-}
-
+.percussion-no .skip-percussion-no,
 .percussion-yes .skip-percussion-yes {
   @include detail-disabled;
 }

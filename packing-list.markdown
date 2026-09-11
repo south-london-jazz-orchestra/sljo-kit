@@ -271,6 +271,8 @@ hidden: True
 <figure class="warning-venue-engineered">
   ⚠️ Check with the venue to see whether we need to bring our drum kit. It's
   customary to bring our cymbals and snare when playing someone else's kit.
+  Check with the drummer whether they'd like any additional components from the
+  drum coffin (eg. a cymbal stand).
 </figure>
 
 <details open class="skip-venue-engineered">

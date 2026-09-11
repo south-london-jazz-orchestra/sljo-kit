@@ -470,6 +470,14 @@ You need <span class="stand-count" data-parts="tpt1 tpt2 tpt3 tpt4 tbn1 tbn2 tbn
 </figure>
 </details>
 
+<details open class="skip-venue-small skip-venue-big skip-venue-engineered">
+<summary>Pegs</summary>
+<figure>
+  (Picture pending)
+  <figcaption>For keeping music from turning in the wind. </figcaption>
+</figure>
+</details>
+
 <details open class="skip-venue-outdoor">
 <summary>Music stand lights</summary>
 <figure>
